@@ -6,7 +6,7 @@
       "name": "event",
       "direction": "in",
       "eventHubName": "eventhub-ninja", 
-      "connection": "Endpoint=sb://neighborlyeventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=9iyN5h1pXrvU9aunDZYCXr271rJ1mFqBC+AEhLBE3U0="
+      "connection": "Endpoint=sb://neighborlyeventhub.servicebus.windows.net/;SharedAccessKeyName=All;SharedAccessKey=9MuPPC7A/3uuUtq+NEORllVafR5hJ+/HY+AEhNMeu0M=;EntityPath=eventhub-ninja"
     }
   ]
 }
